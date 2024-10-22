@@ -1,6 +1,7 @@
 # 嗨!歡迎來到我的個人資料!  Hi! Welcome to my profile!
 ## 我是誰? who I am?
 我是一個實驗中學中學生，就讀三年級 I am a student in an experimental middle school, in the third grade
+ **我還有一個學校用的帳號，在[這裡](https://github.com/zackzheng1121study) I also have an account for school, [here](https://github.com/zackzheng1121study)**
 ### 我主要在做什麼
 我主要在翻譯[revision-tool](https://github.com/zackzheng1121/revision-tool_zh_tw) I am mainly translating [revision-tool](https://github.com/zackzheng1121/revision-tool_zh_tw)
 #### 怎麼聯絡我? How to contact me?
@@ -12,3 +13,5 @@ discord:zackzheng_online
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zackzheng1121/zackzheng1121/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zackzheng1121/zackzheng1121/output/github-contribution-grid-snake.svg">
 </picture>
+[![zackzheng1121's GitHub stats](https://github-readme-stats.vercel.app/api?username=zackzheng1121)](https://github.com/anuraghazra/github-readme-stats)
+[![zackzheng1121's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zackzheng1121)](https://github.com/anuraghazra/github-readme-stats)
